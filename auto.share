@@ -1,0 +1,2 @@
+Shares -fstype=nfs4,rw,sec=krb5p,rsize=8192,wsize=8192 nasboy.int.asta-frankfurt.de:/exports/shares
+scanner -fstype=nfs,rw nasboy.int.asta-frankfurt.de:/exports/scanner
